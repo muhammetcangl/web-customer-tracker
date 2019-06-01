@@ -47,6 +47,7 @@
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/FastInfoset-1.2.15.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-context-5.1.7.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-test-5.1.7.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/aspectjweaver-1.9.4.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-context-support-5.1.7.RELEASE-javadoc.jar!/" />
